@@ -165,7 +165,20 @@ body {
     letter-spacing: 1px;
     margin-bottom: 10px;
 }
-
+.text a {
+  text-decoration: none; 
+}
+.text  button {
+    border: none;
+    padding: 4px;
+    border-radius: 5px;
+    background-color: #ddddaa;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #dadaadaa;
+    color: #2a7da2;
+}
 p {
     color: #353;
 }
