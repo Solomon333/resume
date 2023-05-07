@@ -1,5 +1,3 @@
 CV - resume
 
-- HTML.
-
-- CSS.
+- built with: HTML and CSS .
