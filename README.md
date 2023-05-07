@@ -1,3 +1,5 @@
-cV- 
+CV - resume
 
-- 
+- HTML.
+
+- CSS.
